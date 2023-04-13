@@ -1,0 +1,10 @@
+/* Sticky table headers */
+th.sticky {
+  background: white;
+  position: sticky;
+  top: 0; /* Don't forget this, required for the stickiness */
+}
+
+.fa-color {
+  color: #4f87e8;
+}
