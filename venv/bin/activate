@@ -37,7 +37,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="/Users/alecgoodman/Documents/GitHub/my-loan-calculator/venv"
+VIRTUAL_ENV="/Users/alecgoodman/Documents/GitHub/alec-loan-calculator/venv"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"

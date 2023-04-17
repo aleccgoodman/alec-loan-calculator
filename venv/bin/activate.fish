@@ -29,7 +29,7 @@ end
 # Unset irrelevant variables.
 deactivate nondestructive
 
-set -gx VIRTUAL_ENV "/Users/alecgoodman/Documents/GitHub/my-loan-calculator/venv"
+set -gx VIRTUAL_ENV "/Users/alecgoodman/Documents/GitHub/alec-loan-calculator/venv"
 
 set -gx _OLD_VIRTUAL_PATH $PATH
 set -gx PATH "$VIRTUAL_ENV/bin" $PATH
