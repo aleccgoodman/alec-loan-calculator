@@ -30,20 +30,3 @@ This application is used to teach CI/CD including automated testing and GitHub A
 
 5. Run the application with
    `python app.py ` or `flask run`
-
-### TODO:
-
----
-
-[x] ~~Loan calculation~~  
-[x] ~~Amoritzation table~~  
-[x] ~~Formatting with Bootstrap 5~~  
-[x] ~~Sticky header on amortization table~~  
-[x] ~~Bootstrap 5 tooltips for help~~  
-[x] ~~Font Awesome icons for tooltips~~  
-[ ] Pytest file for unit and functional testing  
-[ ] Custom GitHub Action workflow file for CI/CD  
-[ ] Client side validation  
-[ ] Server side validation  
-[ ] Error checking and error handling  
-[ ] Re-configure Pytest for validation and error testing
